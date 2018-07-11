@@ -1,0 +1,10 @@
+/home/brian/Documentos/csharp/sisventas/sisventas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brian/Documentos/csharp/sisventas/sisventas/bin/Debug/sisventas.exe.mdb
+/home/brian/Documentos/csharp/sisventas/sisventas/bin/Debug/sisventas.exe
+/home/brian/Documentos/csharp/sisventas/sisventas/obj/x86/Debug/sisventas.exe
+/home/brian/Documentos/csharp/sisventas/sisventas/obj/x86/Debug/sisventas.exe.mdb
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/bin/Debug/sisventas.exe.mdb
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/bin/Debug/sisventas.exe
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/obj/x86/Debug/sisventas.exe
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/obj/x86/Debug/sisventas.exe.mdb

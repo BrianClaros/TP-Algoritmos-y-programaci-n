@@ -1,0 +1,5 @@
+/home/brian/Documentos/csharp/sisventas/sisventas/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brian/Documentos/csharp/sisventas/sisventas/bin/Release/sisventas.exe.mdb
+/home/brian/Documentos/csharp/sisventas/sisventas/bin/Release/sisventas.exe
+/home/brian/Documentos/csharp/sisventas/sisventas/obj/x86/Release/sisventas.exe
+/home/brian/Documentos/csharp/sisventas/sisventas/obj/x86/Release/sisventas.exe.mdb

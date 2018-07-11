@@ -1,0 +1,5 @@
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/obj/x86/Release/SistemaVentas.csproj.CoreCompileInputs.cache
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/bin/Release/sisventas.exe
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/bin/Release/sisventas.pdb
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/obj/x86/Release/sisventas.exe
+/media/brian/UBUNTU 18_0/csharp/sisventas/sisventas/obj/x86/Release/sisventas.pdb
